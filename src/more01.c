@@ -1,6 +1,3 @@
-/* more01.c - version 0.1 of more
- * read and print 24 lines
- */
 #include <stdio.h>
 #include <stdlib.h>
 #define PAGELEN 24
