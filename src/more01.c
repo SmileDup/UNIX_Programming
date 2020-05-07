@@ -54,3 +54,8 @@ int see_more(){
     return 0;
 }
 
+void test{
+  printf("%d\n",9);
+  return 0;
+}
+
